@@ -1,0 +1,24 @@
+{
+    "Header": {
+        "Comment": "All values are metric (mm)",
+        "CreationDate": "2020-11-05T07:57:55Z",
+        "GenerationSoftware": {
+            "Application": "EAGLE",
+            "Vendor": "Autodesk",
+            "Version": "9.3.0"
+        },
+        "Part": "Single"
+    },
+    "Overall": {
+        "BoardThickness": 0.77,
+        "LayerNumber": 4,
+        "Name": {
+            "ProjectId": "esp8285_remote_v1_1"
+        },
+        "Owner": "Moritz Koenig <moritz.knig@googlemail.com>",
+        "Size": {
+            "X": 43,
+            "Y": 24
+        }
+    }
+}
